@@ -117,6 +117,7 @@ description: 人生选择指南。用户以日记式叙述讲一件引发情绪�
 |---|---|
 | 对抗与胜负 | `sunzi-bingfa.md`《孙子兵法》 |
 | 重大难逆决策 | `qiongchali-baodian.md`《穷查理宝典》 |
+| 决策过程与判断质量 | `duizhu.md`《对赌》 |
 | 长期方向、专长与个人商业模式 | `nawaer-baodian.md`《纳瓦尔宝典》 |
 | 方向定位与市场匹配 | `cong-youxiu-dao-zhuoyue.md`《从优秀到卓越》 |
 | 执行与习惯 | `yuanzi-xiguan.md`《原子习惯》 |
